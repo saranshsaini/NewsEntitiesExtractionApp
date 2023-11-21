@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  background-color: #000807;
+  min-height: 100vh;
+
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.news-display {
+  background-color: #bd93bd;
+}
+
+.options-paper {
+  margin: 0 10px;
+}
+
+.entities-header {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+.entities-headername {
+  left: 50%;
+}
+
+.entities-button {
+  padding: 10px;
+}
+
+.article-card {
+  background-color: blue;
+}
+.news-cards-holder {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
